@@ -1,2 +1,6 @@
-# InfosysPlatform
-This Repository Contains all solved Assignments from InfyTQ platform Modules. All the Assignments and Exercises are solved and Important Tryouts are included.
+# Journey to Google 
+
+This Repository is kinda challenge to me !!
+Here I am solving all the question from DataStructures and Algorithms
+
+
