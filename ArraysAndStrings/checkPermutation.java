@@ -55,7 +55,6 @@ public class checkPermutation {
         assertEquals(true, checkPermutationByCount("dog", "god"));
         assertEquals(true, checkPermutationByCount("",""));
         assertEquals(false,checkPermutationByCount("pastry","trypes"));
-
     }
 }
 
